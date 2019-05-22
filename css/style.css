@@ -1,0 +1,88 @@
+body {
+    font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+    font-size: 14px;
+    line-height: 1.43;
+    color: #484848;
+    background-color: #fff;
+    margin: 0;
+}
+
+.box {
+  width: 552px;
+  height: 345px;
+  padding: 50px;
+  margin: 50px;
+  display: inline;
+  background-color: gray;
+ }
+
+ .box2 {
+  width: 362.66px;
+  height: 221.8px;
+  padding: 50px;
+  margin: 50px;
+  display: inline-block;
+  background-color: pink;
+ }
+
+.border-box {
+  box-sizing: border-box;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.clear {
+  clear: both;
+}
+
+.section {
+  width: 100%;
+  clear: both;
+}
+
+.half-page {
+  width: 50%;
+  text-align: center;
+}
+
+.third-page {
+  width: 30%;
+  margin: 1.66%;
+}
+
+.tile-headline {   
+
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 18px;
+  line-height: 1.43;
+  color: #484848;
+  }
+
+  .tile-headline2 {   
+
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto, Helvetica Neue, sans-serif;
+  font-size: 14px;
+  line-height: 1.43;
+  color: #484848;
+  }
+
+.tile-experiences {
+  color: darkgray;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin-bottom: 2px;
+  font-weight: 600;
+}
+
+.tile-description {
+  color: rgb(72, 72, 72);
+  font-size: 14px;
+  font-weight: 400;
+  margin-bottom: 8px;
+}
